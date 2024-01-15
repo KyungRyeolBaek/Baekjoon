@@ -1,0 +1,1 @@
+print(sum([*x]==sorted(x,key=x.find)for x in open(0))-1)
