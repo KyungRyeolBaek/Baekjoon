@@ -1,0 +1,1 @@
+for N in[*open(0)][1:]:print(sum(map(int,N.split())))
